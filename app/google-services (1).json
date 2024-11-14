@@ -1,0 +1,67 @@
+{
+  "project_info": {
+    "project_number": "97866573991",
+    "project_id": "desafio-kotlin",
+    "storage_bucket": "desafio-kotlin.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:97866573991:android:5fcd00126fbb56d2165382",
+        "android_client_info": {
+          "package_name": "br.unisanta.DesafioKotlin"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyD-Ah3ZPPTo_6t506sYqpE6yI5zGZRLhrM"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:97866573991:android:5058586a0f9489b7165382",
+        "android_client_info": {
+          "package_name": "br.unisanta.myapplication"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyD-Ah3ZPPTo_6t506sYqpE6yI5zGZRLhrM"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:97866573991:android:021fef714fc7025a165382",
+        "android_client_info": {
+          "package_name": "com.example.desafioMobile"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyD-Ah3ZPPTo_6t506sYqpE6yI5zGZRLhrM"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
