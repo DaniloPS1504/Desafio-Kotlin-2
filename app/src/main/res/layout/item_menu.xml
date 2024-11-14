@@ -21,4 +21,11 @@
         android:hint="Preco"
         android:textSize="14sp"/>
 
+    <Button
+        android:id="@+id/selectButton"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="Fazer Pedido"
+        android:layout_marginStart="16dp" />
+
 </LinearLayout>
